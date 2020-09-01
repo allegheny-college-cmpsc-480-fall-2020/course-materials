@@ -22,8 +22,8 @@ After the first session, this course will be broken into "communities of interes
 
 |Day(s) of Week |Time           |Purpose                                |
 |---------------|---------------|---------------------------------------|
-|Wednesday      |1:30 - 2:20 PM |Group meetings, discussion, activities |
-|Friday         |1:30 - 2:20 PM |Open "drop-in"/workshop time           |
+|Wednesday      |1:50 - 2:40 PM |Group meetings, discussion, activities |
+|Friday         |1:50 - 2:40 PM |Open "drop-in"/workshop time           |
 
 Occasionally, we will have a guest speaker. These visits will take place on Wednesdays and will be recorded for those folks who can't attend.
 
