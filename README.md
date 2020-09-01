@@ -45,6 +45,10 @@ Occasionally, we will have a guest speaker. These visits will take place on Wedn
 |Friday                    |10:00 - 12:30 |
 |                          |14:45 - 16:00 |
 
+Consult my [office hours schedule](https://calendar.google.com/calendar/selfsched?sstoken=UUZhdGE0ampEVWhHfGRlZmF1bHR8MDAxZDc2Yjg3NTFhMjMwMjM4OWM5ZjE5ZmU5YTI4ODk&pli=1) to sign up for a 15-minute slot during any of the above times.
+
+If the above times do not work for your schedule, let me know -- we'll make alternate arrangements.
+
 ### Canonical course description
 
 An introduction to the technical and communication skills needed to design, implement, and publicly release innovative software. In addition to establishing connections with professionals in the software feld, students refine their writing abilities as they participate in online technical communities. During a weekly practical session, students use state-of-the-art tools to complete well-documented software that is useful to external collaborators, describing their systems through oral presentations and written documents featured on a web site.
@@ -148,7 +152,7 @@ I expect students to arrive to class prepared. Here, "prepared" means having com
 
 #### Preparation for office hours
 
-To make the most of our time during office hours, _you must post a minimum of `1` and a maximum of `3` questions in our office ours appointment comment box (as seen on the [office hours calendar](). Failure to do so will make our discussions less productive and will make addressing your questions more difficult.
+To make the most of our time during office hours, _you must post a minimum of `1` and a maximum of `3` questions in our office ours appointment comment box (as seen on the [office hours calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUZhdGE0ampEVWhHfGRlZmF1bHR8MDAxZDc2Yjg3NTFhMjMwMjM4OWM5ZjE5ZmU5YTI4ODk&pli=1)). Failure to do so will make our discussions less productive and will make addressing your questions more difficult.
 
 ### Allegheny College Statement of Community
 
