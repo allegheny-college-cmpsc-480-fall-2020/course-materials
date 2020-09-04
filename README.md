@@ -118,9 +118,9 @@ I also write this with full awareness that the remote nature of this course comp
 
 In addition, I expect that activities and/or worksheets given during these sessions will be completed by the deadlines indicated on materials distributed during the session. These due dates/times will be flexible enough to allow students to complete work at a reasonable pace.
 
-Because this class is a group-based course, a large part of your Participation grade will be the creation and filing of session-by-session group reports for your group's work. These reports are meant to be short summaries of group activity and will be included as part of your assignment sheets.
+Because this class is a group-based course, a large part of your Participation grade will be the creation and filing of session-by-session group reports for your group's work. These reports are meant to be short summaries of group activity and will be distributed regularly in the final 10 minutes of each group session.
 
-These activities are the main mechanic I use to assign participation grades.
+This form is main mechanic I use to assign participation grades.
 
 ###### Recorded content
 
